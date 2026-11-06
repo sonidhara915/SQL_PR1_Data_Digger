@@ -143,6 +143,8 @@ Through this project, I practiced:
 - Add joins to generate detailed customer and sales reports.
 - Improve data validation using constraints.
 
+## Explanation Video
+- https://drive.google.com/file/d/1DpbZJM21NaGrpwAigQA0uNGBxT9ilmCQ/view?usp=sharing
 
 ---
 
